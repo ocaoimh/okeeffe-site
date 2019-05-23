@@ -70,6 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Cormac O'Keeffe co-founded YESNYOU in 2007 after 10 years of experience in the education sector. With the desire to provide learners with innovative and creative solutions to their learning needs, he created YESNYOU's teaching & learning approach, leading the quality and certification process. An expert in learning & teaching, Cormac has PhD in learning technologies and regularly publishes research on learning and assessment technologies. He currently designs YESNYOU's data-driven approach to adaptive and personalized learning
+ 
