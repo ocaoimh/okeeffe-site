@@ -14,28 +14,31 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: YESNYOU
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm an experienced educational technologist and expert in educational data who loves to invest himself in innovative Edtech projects, I especially enjoy participating in the creation of challenging and complex solutions that require attention to detail to produce high-quality solutions. My aim is to put my learning design and research skills to good use by producing simple, beautiful, effective, and data-driven learning experiences, for learners and clients. At present, I'm focusing on core R&D in learning technologies, developing applications of machine learning, learning platforms, novel interactions, and data.
 
 interests:
-- Artificial Intelligence
+- Education
 - Computational Linguistics
-- Information Retrieval
+- Training
+- Learning
+- Educational technology
+- Learning analytics and data 
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Technology Enhanced Learning
+    institution: Lancaster University
+    year: 2015
+  - course: Masters in Teaching
+    institution: University of Sydney
+    year: 1997
+  - course: Bachelors of Arts (Hons)
+    institution: University of Sydney
+    year: 1995
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +47,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:okeeffe.cormac@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ocaoimh
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.fr/citations?user=w9SUFXsAAAAJ&hl=en
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/cormac-o-keeffe-phd-6317571/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
