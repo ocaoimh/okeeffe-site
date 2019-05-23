@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Cormac O'Keeffe
 
 # Username (this should match the folder name)
 authors:
