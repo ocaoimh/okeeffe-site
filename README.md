@@ -9,6 +9,10 @@ And if you're interested in fast static site builders have a look at Hugo:
 
 https://gohugo.io/
 
+And since you're here, why not visit the deployed verison here: 
+
+http://www.cormacokeeffe.com/
+
 Thanks for stopping by!
 
 Cormac
