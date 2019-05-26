@@ -21,24 +21,34 @@ date_format = "Jan 2006"
   title = "Head of learning and innovation"
   company = "YESNYOU"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Paris, France"
+  date_start = "2015-01-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Learning analytics
+  * Product development - professional training, language learning
+  * Business development
+  * Talent Management
+  * International certification
+  * Learning design
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Director of teachng and learning"
+  company = "YESNYOU"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Paris, France"
+  date_start = "2008-01-01"
+  date_end = "2015-01-O1"
+  description = """
+    Responsibilities include:
+  
+  * Prodcut development - lanaguage learning
+  * Trainer management
+  * Talent Management
+  * Learning design
+  """
 
 +++
