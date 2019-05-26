@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Learning analytics
-  * Product development - professional training, language learning
+  * Product development
   * Business development
   * Talent Management
   * International certification
@@ -43,12 +43,6 @@ date_format = "Jan 2006"
   date_start = "2008-01-01"
   date_end = "2015-01-O1"
   description = """
-  Responsibilities include:
-  
-  * Prodcut development - lanaguage learning
-  * Trainer management
-  * Talent Management
-  * Learning design
-  """
+  Taught electronic engineering and researched semiconductor physics."""
 
 +++
