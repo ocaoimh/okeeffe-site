@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   date_start = "2008-01-01"
   date_end = "2015-01-O1"
   description = """
-    Responsibilities include:
+  Responsibilities include:
   
   * Prodcut development - lanaguage learning
   * Trainer management
