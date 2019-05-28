@@ -31,6 +31,7 @@ projects: []
 I've recently been using Airtable a lot more and noticed that they have a template dedciated to Learning Designers. Or, as they say, being North American, Instructional Designers (there's an interesting story behind that for another time). 
 
 Airtable describe this as being: 
+
 > Built for instructional designers and training project managers, this template helps you manage the employee training development process, collaborate seamlessly across multiple training programs, and collect feedback from key stakeholders to build the perfect learning experiences.
 
 (https://airtable.com/templates/content-production/expdNo7qryPLdQ934/instructional-design-management)
