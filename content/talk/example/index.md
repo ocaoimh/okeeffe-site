@@ -4,7 +4,7 @@ event: Salon eLearning Expo
 event_url: https://example.org
 location: Porte de Versailles, Paris, France
 summary: Adaptive Learning et le Machine Learning
-abstract: "Qu'est-ce la « machine learning » ? Qu'est-ce l'apprentissage adaptatif ? Comment les deux vont-ils travailler ensemble ?  Dans cet atelier, j'examine l'histoire de l'apprentissage adaptatif, donne quelques exemples de comment on peut adapter la formation à l'aide des technologies numériques et examine certaines tendances dans le monde de l'apprentissage adaptatif (compétences non cognitives)"
+abstract: "Qu'est-ce que le « machine learning » ? Qu'est-ce l'apprentissage adaptatif ? Comment les deux vont-ils travailler ensemble ?  Dans cet atelier, j'examine l'histoire de l'apprentissage adaptatif, donne quelques exemples de comment on peut adapter la formation à l'aide des technologies numériques et examine certaines tendances dans le monde de l'apprentissage adaptatif (compétences non cognitives)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
