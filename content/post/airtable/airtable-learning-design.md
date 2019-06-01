@@ -13,8 +13,8 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Screenshot of the ID table"
+  focal_point: "Center"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
