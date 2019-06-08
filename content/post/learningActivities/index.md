@@ -34,7 +34,7 @@ I've put together this table that lists some of the activities available to crea
 
 (https://airtable.com/shrl6dG8NFW5Vv3RU)
 
-This table differs from other lists in that it associates activities or features with types of learning activities and the process outcomes. Process outcomes are interesting for learnign designers as they can use them to predict the kinds of learning that they will see. As learning designers often never see their learners interact with their courses, being able to predict, or at the very least, anticipate what the learner will be doing with some degree of accuracy is so very important. 
+This table differs from other lists in that it associates activities or features with types of learning activities and the process outcomes. Process outcomes are interesting for learning designers as they can use them to predict the kinds of learning that they will see. As learning designers often never see their learners interact with their courses, being able to predict, or at the very least, anticipate what the learner will be doing with some degree of accuracy is so very important. 
 
 | Category 	| Process outcomes (learners will...) 	|
 |----------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------	|
