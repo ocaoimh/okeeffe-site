@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: Cormac O'Keeffe
+  caption: Network diagram of the PIAAC consortium
   focal_point: "center"
   preview_only: false
 
