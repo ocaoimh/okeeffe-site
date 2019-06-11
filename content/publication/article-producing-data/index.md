@@ -24,7 +24,7 @@ abstract: In this paper, I examine the role of human and digital actants in vari
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Trace ethnography 
+- Trace ethnography, assessment, Programme for the International Assessment of Adult Competencies, data, literacy, governmentality
 featured: true
 
 # links:
@@ -42,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: Cormac O'Keeffe'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -61,3 +61,12 @@ projects: []
 slides: example
 ---
 
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
