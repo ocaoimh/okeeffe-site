@@ -47,8 +47,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Cormac O'Keeffe**]()'
-  focal_point: ""
+  caption: Cormac O'Keeffe
+  focal_point: "center"
   preview_only: false
 
 # Associated Projects (optional).
