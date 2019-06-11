@@ -24,7 +24,12 @@ abstract: In this paper, I examine the role of human and digital actants in vari
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Trace ethnography, assessment, Programme for the International Assessment of Adult Competencies, data, literacy, governmentality
+- Trace ethnography
+- assessment
+- Programme for the International Assessment of Adult Competencies
+- data 
+- literacy
+- governmentality
 featured: true
 
 # links:
