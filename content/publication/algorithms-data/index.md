@@ -28,7 +28,7 @@ tags:
 - Algorithms
 - Programme for the International Assessment of Adult Competencies
 - ILSA 
-- Item Response Theorys
+- Item Response Theory
 - Economics
 featured: false
 
