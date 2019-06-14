@@ -24,13 +24,13 @@ abstract: International Large Scale Assessments have been producing data about e
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Trace ethnography
-- assessment
-- Programme for the International Assessment of Adult Competencies
-- data 
-- literacy
-- governmentality
-featured: false
+- Testing
+- algorithms
+- data
+- economics 
+- International Large Scale Assessment
+- Item Response Theory
+ featured: false
 
 # links:
 # - name: ""
