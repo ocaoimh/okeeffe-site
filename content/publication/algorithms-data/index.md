@@ -35,7 +35,7 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.sagepub.com/doi/10.1177/1474904115612486
+url_pdf: https://journals.sagepub.com/doi/abs/10.1177/2042753017732503
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: Network diagram of the PIAAC consortium
+  caption: 
   focal_point: "center"
   preview_only: false
 
