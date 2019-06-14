@@ -24,18 +24,18 @@ abstract: International Large Scale Assessments have been producing data about e
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Trace ethnography
-- assessment
+- Educational measurement
+- Algorithms
 - Programme for the International Assessment of Adult Competencies
-- data 
-- literacy
-- governmentality
+- ILSA 
+- Item Response Theorys
+- Economics
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.sagepub.com/doi/10.1177/1474904115612486
+url_pdf: https://journals.sagepub.com/doi/abs/10.1177/2042753017732503
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: Network diagram of the PIAAC consortium
+  caption:  
   focal_point: "center"
   preview_only: false
 
