@@ -1,5 +1,5 @@
 ---
-title: "Producing data through e-assessment: A trace ethnographic investigation into e-assessment events"
+title: "Economizing education: Assessment algorithms and calculative agencies"
 authors:
 - admin
 date: "2015-09-01T00:00:00Z"
