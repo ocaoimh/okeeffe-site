@@ -1,9 +1,9 @@
 ---
-title: "Economizing education: Assessment algorithms and calculative agencies"
+title: "Producing data through e-assessment: A trace ethnographic investigation into e-assessment events"
 authors:
 - admin
-date: "2017-07-10T00:00:00Z"
-doi: "10.1177/2042753017732503"
+date: "2015-09-01T00:00:00Z"
+doi: "10.1177/1474904115612486"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -15,27 +15,27 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*E-Learning and Digital Media, 15*(1)"
+publication: "*European Educational Research Journal, 1*(1)"
 publication_short: ""
 
-abstract: International Large Scale Assessments have been producing data about educational attainment for over 60 years. More recently however, these assessments as tests have become digitally and computationally complex and increasingly rely on the calculative work performed by algorithms. In this article I first consider the coordination of relations between the human and non-human agents that perform the day-to-day tasks of data production used in economic and educational policymaking and practice. I examine the calculative agencies of an assemblage of algorithms encoded in the testing software for the Programme for the International Assessment of Adult Competencies. These algorithms perform the sampling, sorting, scoring, and result prediction of test takers and items during digital assessment events. Second, I examine the role of psychometric practices and educational testing theories, and in particular, Item Response Theory, in the work of sorting and detaching situated practices into equivalence spaces that they can be manipulated and transformed by into calculable entities. Combined with digital assessment technologies, the probabilistic statistical techniques used by Item Response Theory are able to produce digital data such as test scores capable of transforming situated literacy practices into psychological constructs that can then be classified and rendered calculable. This reinforces the calculative agency of tests as well as a consensus about the legitimacy and necessity of the testing technologies as the dominant way to produce educational data.
+abstract: In this paper, I examine the role of human and digital actants in various material and spatial configurations during the Programme for the International Assessment of Adult Competencies (PIAAC) e-assessment events. It reports on an investigation into how data are produced and subsequently fed into statistical models that in turn produce analyses of skills in ‘centres of calculation’. These data are then used to produce reports, scientific papers, marketing documents and visualizations that profoundly affect how we understand concepts such as literacy or skill. Drawing upon the theoretical resources of Actor Network Theory, this investigation employs a new and innovative methodology, trace ethnography, to follow the distributed agency of hypermobile digital actants. I examine the detail of e-assessment events and interactions between coded technologies and people and how these are translated into statements about what it means to be literate. This, in turn, highlights the role of non-governmental organizations in influencing educational and economic policy-making through the intensification of data production.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Testing
-- algorithms
-- data
-- economics 
-- International Large Scale Assessment
-- Item Response Theory
- featured: false
+- Trace ethnography
+- assessment
+- Programme for the International Assessment of Adult Competencies
+- data 
+- literacy
+- governmentality
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.sagepub.com/doi/abs/10.1177/2042753017732503
+url_pdf: https://journals.sagepub.com/doi/10.1177/1474904115612486
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 
+  caption: Network diagram of the PIAAC consortium
   focal_point: "center"
   preview_only: false
 
