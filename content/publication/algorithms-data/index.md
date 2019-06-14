@@ -2,8 +2,8 @@
 title: "Economizing education: Assessment algorithms and calculative agencies"
 authors:
 - admin
-date: "2015-09-01T00:00:00Z"
-doi: "10.1177/1474904115612486"
+date: "2017-07-10T00:00:00Z"
+doi: "10.1177/2042753017732503"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -30,7 +30,7 @@ tags:
 - data 
 - literacy
 - governmentality
-featured: true
+featured: false
 
 # links:
 # - name: ""
