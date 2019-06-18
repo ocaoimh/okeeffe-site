@@ -22,7 +22,7 @@ tags: []
 featured: false
 
 image:
-  caption: s
+  caption: 
   focal_point: Right
 
 links:
