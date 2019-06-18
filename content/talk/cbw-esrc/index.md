@@ -8,8 +8,8 @@ abstract: "The seminar focused on the ways that findings from international asse
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2016-04-21T17:14:00Z"
-date_end: "2016-04-21T15:00:00Z"
+date: "2016-04-21T15:00:00Z"
+date_end: "2016-04-21T16:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -22,7 +22,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: s
   focal_point: Right
 
 links:
