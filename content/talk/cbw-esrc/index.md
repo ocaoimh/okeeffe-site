@@ -1,5 +1,5 @@
 ---
-title: Working with microdata in capacity building workshop
+title: Working with microdata in PIAAC's capacity building workshops
 event: Invited talk at the ESRC Seminar 5, The Politics of Reception - Media, Policy, Public Knowledge and Opinion
 event_url: http://international-assessments.org/seminar-5/
 location: Lancaster Univesity, UK
@@ -8,8 +8,8 @@ abstract: "The seminar focused on the ways that findings from international asse
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-03-20T17:00:00Z"
-date_end: "2019-03-20T18:00:00Z"
+date: "2016-04-21T17:14:00Z"
+date_end: "2016-04-21T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
