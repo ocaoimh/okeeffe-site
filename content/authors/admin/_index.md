@@ -18,13 +18,14 @@ organizations:
   url: "www.yesnyou.fr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an experienced educational technologist and expert in educational data who loves to invest himself in innovative Edtech projects, I especially enjoy participating in the creation of challenging and complex solutions that require attention to detail to produce high-quality solutions. My aim is to put my learning design and research skills to good use by producing simple, beautiful, effective, and data-driven learning experiences, for learners and clients. At present, I'm focusing on core R&D in learning technologies, developing applications of machine learning, learning platforms, novel interactions, and data.
+bio: Expert in digital learning, skills assessment, needs analysis, data analysis, & learning analytics, product design and innovation
 
 interests:
 - Education
 - Computational Linguistics
 - Training
 - Learning
+- Learning Design
 - Educational technology
 - Learning analytics and data 
 
