@@ -18,7 +18,7 @@ organizations:
   url: "www.yesnyou.fr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Expert in digital learning, skills assessment, needs analysis, data analysis, & learning analytics, product design and innovation
+bio: Expert in digital learning, skills assessment, needs analysis, data analysis, & learning analytics, product design and innovation.
 
 interests:
 - Education
