@@ -37,4 +37,10 @@ subtitle = ""
   icon_pack = "ai"
   name = "Research"
   #description = "90%"
+
+  [[feature]]
+  icon = "bicycle"
+  icon_pack = "fas"
+  name = "Agile/scrum"
+  #description = "90%"
 +++
