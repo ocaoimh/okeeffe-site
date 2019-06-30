@@ -32,7 +32,7 @@ featured: false
 
 # links:
 # - name: ""
-url: "https://mitpress.mit.edu/books/reset-modernity"
+#   url: ""
 url_pdf: 
 url_code: ''
 url_dataset: ''
