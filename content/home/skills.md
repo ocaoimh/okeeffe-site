@@ -32,4 +32,9 @@ subtitle = ""
   name = "Learning Design"
   #description = "90%"
 
+[[feature]]
+  icon = "doi"
+  icon_pack = "ai"
+  name = "Research"
+  #description = "90%"
 +++
