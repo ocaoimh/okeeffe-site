@@ -1,7 +1,8 @@
 ---
 title: "Reset Modernity! Our Economy"
 authors:
-- admin, Vasquez, Consuelo, Giraudeau, Martin, Hennion, Antoine, Lepinay, Vincent, & O’Keeffe, Cormac
+- admin
+- Vasquez, Consuelo, Giraudeau, Martin, Hennion, Antoine, Lepinay, Vincent, & O’Keeffe, Cormac
 date: "2016-01-01T00:00:00Z"
 doi: ""
 
@@ -32,7 +33,7 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
+url: "https://mitpress.mit.edu/books/reset-modernity"
 url_pdf: 
 url_code: ''
 url_dataset: ''
