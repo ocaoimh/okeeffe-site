@@ -3,7 +3,7 @@ title: "Our Economy"
 authors:
 - admin
 date: "2016-01-01T00:00:00Z"
-doi: ""
+isbn: "9780262034593"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,7 +18,13 @@ publication_types: ["5"]
 publication: "Reset Modernity!"
 publication_short: ""
 
-abstract: In this paper, I examine the role of human and digital actants in various material and spatial configurations during the Programme for the International Assessment of Adult Competencies (PIAAC) e-assessment events. It reports on an investigation into how data are produced and subsequently fed into statistical models that in turn produce analyses of skills in ‘centres of calculation’. These data are then used to produce reports, scientific papers, marketing documents and visualizations that profoundly affect how we understand concepts such as literacy or skill. Drawing upon the theoretical resources of Actor Network Theory, this investigation employs a new and innovative methodology, trace ethnography, to follow the distributed agency of hypermobile digital actants. I examine the detail of e-assessment events and interactions between coded technologies and people and how these are translated into statements about what it means to be literate. This, in turn, highlights the role of non-governmental organizations in influencing educational and economic policy-making through the intensification of data production.
+abstract: Texts and images document the disconnection between modernity and ecological crisis: do we need to reset modernity's operating system?
+
+Modernity has had so many meanings and tries to combine so many contradictory sets of attitudes and values that it has become impossible to use it to define the future. It has ended up crashing like an overloaded computer. Hence the idea is that modernity might need a sort of reset. Not a clean break, not a “tabula rasa,” not another iconoclastic gesture, but rather a restart of the complicated programs that have been accumulated, over the course of history, in what is often called the “modernist project.” This operation has become all the more urgent now that the ecological mutation is forcing us to reorient ourselves toward an experience of the material world for which we don't seem to have good recording devices.
+
+Reset Modernity! is organized around six procedures that might induce the readers to reset some of those instruments. Once this reset has been completed, readers might be better prepared for a series of new encounters with other cultures. After having been thrown into the modernist maelstrom, those cultures have difficulties that are just as grave as ours in orienting themselves within the notion of modernity. It is not impossible that the course of those encounters might be altered after modernizers have reset their own way of recording their experience of the world.
+
+At the intersection of art, philosophy, and anthropology, Reset Modernity! has assembled close to sixty authors, most of whom have participated, in one way or another, in the Inquiry into Modes of Existence initiated by Bruno Latour. Together they try to see whether such a reset and such encounters have any practicality. Much like the two exhibitions Iconoclash and Making Things Public, this book documents and completes what could be called a “thought exhibition:” Reset Modernity! held at ZKM | Center for Art and Media Karlsruhe from April to August 2016. Like the two others, this book, generously illustrated, includes contributions, excerpts, and works from many authors and artists.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
