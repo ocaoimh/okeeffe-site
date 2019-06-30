@@ -1,7 +1,6 @@
 ---
 title: "Reset Modernity! Our Economy"
 authors:
-- admin
 - Vasquez, Consuelo, Giraudeau, Martin, Hennion, Antoine, Lepinay, Vincent, & O’Keeffe, Cormac
 date: "2016-01-01T00:00:00Z"
 doi: ""
