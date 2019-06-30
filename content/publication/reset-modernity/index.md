@@ -1,9 +1,7 @@
 ---
-title: "Our Economy"
+title: "Reset Modernity! Our Economy"
 authors:
-- admin
-- Bruno Latour
-- Christophe Leclerc
+- admin, Vasquez, Consuelo, Giraudeau, Martin, Hennion, Antoine, Lepinay, Vincent, & O’Keeffe, Cormac
 date: "2016-01-01T00:00:00Z"
 doi: ""
 
