@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "for a complete list, please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=w9SUFXsAAAAJ&view_op=list_works) page"
+subtitle = "for a complete list, please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=w9SUFXsAAAAJ&view_op=list_works) page. If you'd like a copy of an article or chapter, please get in touch."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
