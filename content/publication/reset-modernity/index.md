@@ -3,7 +3,7 @@ title: "Our Economy"
 authors:
 - admin
 date: "2016-01-01T00:00:00Z"
-isbn: "9780262034593"
+doi: "9780262034593"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
