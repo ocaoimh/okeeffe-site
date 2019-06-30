@@ -32,14 +32,14 @@ featured: false
 
 # links:
 # - name: ""
-url: "https://mitpress.mit.edu/books/reset-modernity"
+#   url: "https://mitpress.mit.edu/books/reset-modernity"
 url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://mitpress.mit.edu/books/reset-modernity'
 url_video: ''
 
 # Featured image
