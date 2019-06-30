@@ -8,9 +8,9 @@ abstract: "Being invited back to my alma mater to talk about data visualisation 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "June, 2006"
+date: "2016-01-01T09:00:00Z"
 #date_end: "2016-01-01T16:00:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 #publishDate: "2019-03-25T00:00:00Z"
