@@ -44,6 +44,12 @@ subtitle = ""
   name = "Agile/scrum"
   #description = "90%"
 
+    [[feature]]
+  icon = "map"
+  icon_pack = "fas"
+  name = "Strategy "
+  #description = "90%"
+
    [[feature]]
   icon = "comments"
   icon_pack = "fas"
