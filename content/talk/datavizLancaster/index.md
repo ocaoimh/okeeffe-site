@@ -8,7 +8,7 @@ abstract: "Being invited back to my alma mater to talk about data visualisation 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2016-06-T00:00:002"
+date: "June, 2006"
 #date_end: "2016-01-01T16:00:00Z"
 all_day: false
 
