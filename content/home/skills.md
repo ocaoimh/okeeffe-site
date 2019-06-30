@@ -43,4 +43,10 @@ subtitle = ""
   icon_pack = "fas"
   name = "Agile/scrum"
   #description = "90%"
+
+   [[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Français (C2), English, 中文 (HSK1) "
+  #description = "90%"
 +++
