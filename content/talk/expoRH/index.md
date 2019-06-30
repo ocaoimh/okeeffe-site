@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning et le Machine Learning
 event: Salon eLearning Expo
-event_url: https://example.org
+event_url: http://www.solutions-ressources-humaines.com/
 location: Porte de Versailles, Paris, France
 summary: Adaptive Learning et le Machine Learning
 abstract: "Qu'est-ce que le « machine learning » ? Qu'est-ce l'apprentissage adaptatif ? Comment les deux vont-ils travailler ensemble ?  Dans cet atelier, j'examine l'histoire de l'apprentissage adaptatif, donne quelques exemples de comment on peut adapter la formation à l'aide des technologies numériques et examine certaines tendances dans le monde de l'apprentissage adaptatif (compétences non cognitives)"
@@ -22,7 +22,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: @agnesmomal'
   focal_point: Right
 
 links:

@@ -28,13 +28,16 @@ projects: []
 
 
 ## Learning design activities and learning outcomes
-It seems that each year, 1000s of hours are spent on creating new activites and digital learning experiences for learners and students. However, there is a relative lack of information for learning designers on what the potential learning outcomes of speciciic interactiions could be. This can lead to issues where the distance between the possiblities afforded by an online interaction and the intended learning outcome can be quite significant.  That is to say, learning or teaching theories are often implicit but the relatonship between the online course and the acutal learning done may have little or nothing to do with learner expectations or the expected course outcomes. 
+It seems that each year, 1000s of hours are spent on creating new activities and digital learning experiences for learners and students. However, there is a relative lack of information for learning designers on what the potential learning outcomes of specific interactions could be. This can lead to issues where the distance between the possibilities afforded by an online interaction and the intended learning outcome can be quite significant.  That is to say, learning or teaching theories are often implicit but the relationship between the online course and the actual learning done may have little or nothing to do with learner expectations or the expected course outcomes. 
 
 I've put together this table that lists some of the activities available to create online or digital learning experiences: 
 
 (https://airtable.com/shrl6dG8NFW5Vv3RU)
 
 This table differs from other lists in that it associates activities or features with types of learning activities and the process outcomes. Process outcomes are interesting for learning designers as they can use them to predict the kinds of learning that they will see. As learning designers often never see their learners interact with their courses, being able to predict, or at the very least, anticipate what the learner will be doing with some degree of accuracy is so very important. 
+
+What are 'process outcomes'? 
+Process outcomes are a way of answering the following question:  'Are the learning outcomes mapped to the activities and assessment elements of the learning intervention?' That is, what is the distance between the learning outcome and the techniques used to get there? 
 
 | Category 	| Process outcomes (learners will...) 	|
 |----------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------	|
