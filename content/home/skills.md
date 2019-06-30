@@ -50,10 +50,22 @@ subtitle = ""
   name = "Français (C2), English, 中文 (HSK1) "
   #description = "90%"
 
-     [[feature]]
+    [[feature]]
   icon = "language"
   icon_pack = "fas"
   name = "Applied Linguistics "
   #description = "90%"
+  
+    [[feature]]
+  icon = "html5"
+  icon_pack = "fab"
+  name = "HTML/JS/CSS "
+  #description = "90%
+
+    [[feature]]
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "Word, Excel, PowerPoint "
+  #description = "90%
   
 +++
