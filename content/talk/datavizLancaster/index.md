@@ -4,7 +4,7 @@ event: Invited talk at the Centre for Technology Enhanced Learning, Lancaster Un
 #event_url: http://international-assessments.org/seminar-5/
 location:  Lancaster, England
 summary:  
-abstract: "Being invited back to my alma mater to talk about data visualisation techniques was a real honour. I was fortunate enough to hold a workshop with students from Cohort 9 of the doctoral school. I spoke about data production, visualisaton techniques and the theorectical and methodological implications of the choices we make when transforming data into graphic displays."
+abstract: "Being invited back to my alma mater to talk about data visualisation techniques was a real honour. I was fortunate enough to hold a workshop with students from Cohort 9 of the doctoral school. I spoke about data production, visualisaton techniques and the theoretical and methodological implications of the choices we make when transforming data into graphic displays."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
