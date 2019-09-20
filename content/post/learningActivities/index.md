@@ -52,7 +52,7 @@ Process outcomes are a way of answering the following question:  'Are the learni
 
 These process outcomes are taken from the 7cs learning design Pedagogy Profile Worksheet: 
 
-Conole, G. (2014). The 7Cs of Learning Design—A new approach to rethinking design practice. In Proceedings of the 9th International Conference on Networked Learning (pp. 502-509). Edinburgh: University of Edinburgh
+Conole, G. (2014). The 7Cs of Learning Design—A new approach to rethinking design practice. In _Proceedings of the 9th International Conference on Networked Learning_ (pp. 502-509). Edinburgh: University of Edinburgh
 
 
 
