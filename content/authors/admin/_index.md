@@ -10,12 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Head of Learning and Innovation
-
+role: Director of Digital Learning
 # Organizations/Affiliations
 organizations:
-- name: YESNYOU
-  url: "www.yesnyou.fr"
+- name: INSEEC U
+  url: "wwww.inseecu.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Expert in digital learning, skills assessment, needs analysis, data analysis, & learning analytics, product design and innovation.
