@@ -27,7 +27,7 @@ projects: []
 
 
 
-## Airtable's learning design template
+## Using R to merge data sets for User Research
 Have you ever had your data spread across dozens or even hundreds of files? I wrote a short article on Medium showing how to:
 -Use RStudio to combine your Likert data into one file
 - Give you a sample project to test the script and then adapt it to your own projects
