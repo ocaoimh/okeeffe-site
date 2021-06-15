@@ -75,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a specialist in Learning & Development with 15 years experience in the education and technology sectors. I love being able to design, create and produce engaging solutions for learners. To do this, I combine technology with the most relevant insights and practices from education and research.  I have a PhD in learning technologies and regularly publish on learning and assessment technologies. I created  YESNYOU's data-driven approach to adaptive and personalized learning and ran INSEEC U's digital learning department. 
+I'm a specialist in Learning & Development with 15 years' experience in the education and technology sectors. I love being able to design, create and produce engaging solutions for learners. To do this, I combine technology with the most relevant insights and practices from education and research.  I have worked with top business schools, universities and corporations to evaluate and deploy learning and development strategies. I have a PhD in learning technologies and regularly publish on learning and assessment technologies. 
 
 
 
