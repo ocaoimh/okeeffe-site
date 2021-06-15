@@ -22,11 +22,13 @@ bio: Expert in digital learning, skills assessment, needs analysis, data analysi
 interests:
 - Education
 - Computational Linguistics
-- Training
-- Learning
+- Learning & Development
+- Learning product development (B2B-B2C)
 - Learning Design
 - Educational technology
-- Learning analytics and data 
+- Learning Experience Platforms
+- Learning analytics and data
+- Digital transformation 
 
 education:
   courses:
@@ -73,5 +75,8 @@ user_groups:
 - Visitors
 ---
 
-Cormac O'Keeffe co-founded YESNYOU in 2007 after 10 years of experience in the education sector. With the desire to provide learners with innovative and creative solutions to their learning needs, he created YESNYOU's teaching & learning approach, leading the quality and certification process. An expert in learning & teaching, Cormac has PhD in learning technologies and regularly publishes research on learning and assessment technologies. He currently designs YESNYOU's data-driven approach to adaptive and personalized learning
+I'm a specialist in Learning & Development with 15 years experience in the education and technology sectors. I love being able to design, create and produce engaging solutions for learners. To do this, I combine technology with the most relevant insights and practices from education and research.  I have a PhD in learning technologies and regularly publish on learning and assessment technologies. I created  YESNYOU's data-driven approach to adaptive and personalized learning and ran INSEEC U's digital learning department. 
+
+
+
  
