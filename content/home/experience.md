@@ -19,6 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Director of Education"
+  company = "Ironhack"
+  company_url = ""
+  location = "Paris, France"
+  date_start = "2021-09-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Product development
+  * Education strategy
+  * Team Management
+  * Learning Experience Design
+  * Innovation 
+  * Learning analytics
+
+  """
+
+[[experience]]
   title = "Director of Digital Learning"
   company = "INSEEC U"
   company_url = ""
