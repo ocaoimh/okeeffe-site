@@ -5,7 +5,7 @@ This is just the source repository for my personal webpage. Not much too look at
 
 (https://georgecushen.com)
 
-And if you're interested in fast static site builders have a look at Hugo: 
+And if you're interested in fast and static site builders have a look at Hugo: 
 
 https://gohugo.io/
 
