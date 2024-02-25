@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Director of Digital Learning
+role: Director of Education, Impact, and Research
 # Organizations/Affiliations
 organizations:
-- name: INSEEC U
-  url: "wwww.inseecu.com"
+- name: Libraries without borders
+  url: "[wwww.inseecu.com](https://www.librarieswithoutborders.org)" 
 
 # Short bio (displayed in user profile at end of posts)
 bio: Expert in digital learning, skills assessment, needs analysis, data analysis, & learning analytics, product design and innovation.
