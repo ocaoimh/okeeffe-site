@@ -19,6 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Director of Education, Impact, and Research"
+  company = "Bibliotheques Sans Frontières | Libraries Without Borders"
+  company_url = ""
+  location = "Paris, France"
+  date_start = "2023-01-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Education strategy
+  * Team Management
+  * Learning Experience Design
+  * Innovation 
+  * Research
+  * Evaluation 
+
+  """
+  
+[[experience]]
   title = "Director of Education"
   company = "Ironhack"
   company_url = ""
