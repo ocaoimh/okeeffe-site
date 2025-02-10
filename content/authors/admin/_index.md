@@ -54,9 +54,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:okeeffe.cormac@gmail.com".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ocaoimh
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.fr/citations?user=w9SUFXsAAAAJ&hl=en
