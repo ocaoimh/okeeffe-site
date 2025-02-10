@@ -21,7 +21,7 @@ bio: Expert in digital learning, skills assessment, needs analysis, data analysi
 
 interests:
 - Education
-- Computational Linguistics
+- AI (espeically with Education)
 - Learning & Development
 - Learning product development (B2B-B2C)
 - Learning Design
@@ -41,6 +41,10 @@ education:
   - course: Bachelors of Arts (Hons)
     institution: University of Sydney
     year: 1995
+  - course: Data Analytics and Data 
+    institution: Ironhack
+    year: 2023
+    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
